@@ -1,0 +1,13 @@
+symbol,date,close,volume,shares_outstanding,sector
+AAA,2021-02-12,10,100000,100,Industrials
+BBB,2021-02-12,8,80000,60,Consumer Discretionary
+CCC,2021-02-12,12,120000,80,Information Technology
+AAA,2021-05-14,11,90000,100,Industrials
+BBB,2021-05-14,8.5,85000,60,Consumer Discretionary
+CCC,2021-05-14,13,110000,80,Information Technology
+AAA,2021-08-13,12,95000,100,Industrials
+BBB,2021-08-13,9,82000,60,Consumer Discretionary
+CCC,2021-08-13,13.5,115000,80,Information Technology
+AAA,2021-11-12,11.5,97000,100,Industrials
+BBB,2021-11-12,9.2,83000,60,Consumer Discretionary
+CCC,2021-11-12,14,120000,80,Information Technology
